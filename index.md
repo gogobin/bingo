@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Bingo Pages
 
-You can use the [editor on GitHub](https://github.com/gogobin/bingo.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+你好，我叫刘彬来自广东工业大学 测控技术与仪器专业 欢迎hr小姐姐和小哥哥来到我的主页。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
